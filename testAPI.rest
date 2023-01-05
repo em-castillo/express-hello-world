@@ -1,0 +1,3 @@
+GET https://hello-world-t3ui.onrender.com
+
+* Link copied from render.
